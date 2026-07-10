@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367020173303",
+    "firebase_url": "https://maps-flutter-a9d2c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "maps-flutter-a9d2c",
+    "storage_bucket": "maps-flutter-a9d2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367020173303:android:dfcfec44d709cfcb1d70f2",
+        "android_client_info": {
+          "package_name": "com.maps.circlesync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367020173303-b8oje4141u7auj74g9eoj8lgd8uurj63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maps.circlesync",
+            "certificate_hash": "8a3f0b7a6fd0d24888414abf163c34aad2fd86ad"
+          }
+        },
+        {
+          "client_id": "367020173303-fknec50uci9v0oskim9lh6pokpaisjkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZOhhcFBSrlHAxGt2F_O4jwyoCqNUndg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367020173303-fknec50uci9v0oskim9lh6pokpaisjkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

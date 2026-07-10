@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">circlesync</string>
+    <string name="facebook_app_id">1989009378409400</string>
+    <string name="fb_login_protocol_scheme">fb1989009378409400</string>
+    <string name="facebook_client_token">f6d50e61cefe1cbdd0de6e9ec8de5f6b</string>
+</resources>
